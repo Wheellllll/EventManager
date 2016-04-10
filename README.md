@@ -1,9 +1,9 @@
 
-## 配置模块
+## 事件模块
 > 这是一个简单的事件转发模块，目前仅支持string转发
 
 ### 安装
-从 https://github.com/Wheellllll/ConfigManager/releases 下载最新的jar包添加到项目依赖里去
+从 https://github.com/Wheellllll/EventManager/releases 下载最新的jar包添加到项目依赖里去
 
 ### 实例
 ```java
