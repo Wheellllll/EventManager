@@ -5,7 +5,7 @@
 ### 安装
 从 https://github.com/Wheellllll/EventManager/releases 下载最新的jar包添加到项目依赖里去
 
-### 实例
+### 使用方法
 ```java
 EventManager mEventManager = new EventManager();
 
